@@ -22,7 +22,7 @@
     "@types/cors": "^2.8.12",
     "@types/express": "^4.17.13",
     "@types/jsonwebtoken": "^8.5.8",
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.18",
     "sucrase": "^3.21.0"
   }
 }
